@@ -1,6 +1,8 @@
 # XQC
 The Extremely Quantative Calendar.
 
+By no means try to build this project now...it is just way to early in the stage..this is just a way of me sharing my progress!
+
 Sponsored by:
 
 
